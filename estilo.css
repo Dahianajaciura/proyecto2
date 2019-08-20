@@ -1,0 +1,57 @@
+
+.worktitulo {
+	text-align: center;
+	padding: 1%;
+}
+
+.workshop {
+	width: 45%;
+	float: right;
+	padding: 5%;
+}
+
+
+
+.ingreso_datos {
+	padding-bottom: 2%;
+}
+
+
+
+.agregar_alumno {
+	width: 100%;
+	padding: 2% 0% 2% 0%;
+	
+}
+
+.agregar_alumno button{
+	width: 90%;
+}
+
+
+.seccion {
+	padding: 2% 0% 2% 0%;
+	width: 50%;
+}
+
+.alumno {
+	width: 50%;
+	padding: 2% 0% 2% 0%;
+}
+
+.alumno button{
+	width: 90%;
+}
+
+.eliminar_buscar {
+	padding: 3%;
+}
+
+
+.lista_alumnos {
+	width: 45%;
+	float: left;
+	padding: 5%;
+	text-align: center;
+
+}
